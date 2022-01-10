@@ -1,0 +1,129 @@
+/***********************Manualy Add CSS **********************/
+      #WhyUs {
+        float: left;
+        width: 100%;
+        background: url(../images/Why-Classes.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin: 60px 0 0;
+        padding: 20px 0;
+      }
+      #WhyUs h2 {
+        font-size: 35px;
+        color: #113c49;
+        font-weight: 700;
+        margin: 20px 0 30px;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+      }
+      #WhyUs h2 span {
+        color: #f48c06;
+      }
+      #WhyUs p {
+        color: #113c49;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 18px;
+        line-height: 30px;
+        font-weight: 400;
+      }
+      .WhyUsBoxContent {
+        padding: 30px 15px 20px;
+        border-radius: 10px;
+        margin-top: 20%;
+        box-shadow: 0 2px 20px #00000026;
+      }
+      .SuperiorQuality {
+        background: transparent linear-gradient(127deg,#2ab59b 0%,#F76D1D 100%) 0% 0% no-repeat padding-box;
+      }
+      .LiveCourse {
+        background: transparent linear-gradient(127deg,#032f2f 0%,#0ff340 100%) 0% 0% no-repeat padding-box;
+      }
+      .VideoLessons {
+        background: transparent linear-gradient(127deg,#e4cf0d 0%,#504808 100%) 0% 0% no-repeat padding-box;
+      }
+      .HighlyQualifide {
+        background: transparent linear-gradient(127deg,#1698449c 0%,#0b8731 100%) 0% 0% no-repeat padding-box;
+      }
+      .FlexibleTeaching {
+        background: transparent linear-gradient(127deg,#36964f 0%,#509c9c 100%) 0% 0% no-repeat padding-box;
+      }
+      .StudyAnytime {
+        background: transparent linear-gradient(127deg,#545FFF 0%,#1101F2 100%) 0% 0% no-repeat padding-box;
+      }
+      .WhyUsBoxContent img {
+        position: absolute;
+        z-index: 1;
+        top: 3%;
+        left: 15%;
+        width: 30%;
+      }
+      .WhyUsBoxContent h2 {
+        text-align: left;
+        font-size: 24px!important;
+        font-weight: 600!important;
+        color: #fff!important;
+        margin: 25px 0 15px!important;
+      }
+      .WhyUsBoxContent p {
+        color: #fff!important;
+        text-align: left;
+        font-size: 16px!important;
+        line-height: 24px!important;
+        margin: 0;
+        height: 200px;
+      }
+      .WhyUsBox .row:nth-child(2) {
+        margin-top: 5%;
+      }
+      #our_modes{
+        margin-bottom: 60px;
+      }
+      .OurModesBox {
+        padding: 15px;
+        border-radius: 10px;
+        margin-top: 10%;
+        box-shadow: 0 2px 20px #00000026;
+      }
+      .PenDrive {
+        background: transparent linear-gradient(110deg,#946e16 0%,#1df774 100%) 0% 0% no-repeat padding-box;
+      }
+      .LiveStreaming {
+        background: transparent linear-gradient(110deg,#2cfa1f 0%,#0F97F3 100%) 0% 0% no-repeat padding-box;
+      }
+      .GoogleDrive {
+        background: transparent linear-gradient(110deg,#02ffb9eb 0%,#2ec113 100%) 0% 0% no-repeat padding-box;
+      }
+      .OTTPlatform {
+        background: transparent linear-gradient(110deg,#46df6e 0%,#6bcdcd 100%) 0% 0% no-repeat padding-box;
+      }
+      .BoxImg {
+        float: left;
+        display: inline-block;
+        width: 30%;
+        margin: 10px 0;
+      }
+      .BoxImg img {width: 65%;}
+      .BoxContent {
+        text-align: left;
+        width: 70%;
+        display: inline-block;
+      }
+      .BoxContent h2 {
+        font-size: 22px!important;
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+      }
+      .BoxContent p {
+        font-size: 12px!important;
+        line-height: 24px;
+        margin-bottom: 0;
+        height: 100px;
+      }
+      .Loginbtn {
+        float: inherit;
+        font: inherit;
+        color: #fff;
+        padding: 8px 38px;
+        background: #113c49;
+        border-radius: 20px;
+        margin: 25px 0 25px -10px;
+      }
